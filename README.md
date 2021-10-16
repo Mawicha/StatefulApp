@@ -1,6 +1,6 @@
 # StatefulApp
 ## Hechos:
-Una app web por default es _ _ a _ _ _ _ _ _.
+* Una app web por default es _ _ a _ _ _ _ _ _.
 
 Todos aquellos eventos que el usuario no comienza, se consideran _ f _ _ _ _ _   _ _ _ _ _ _ a _ _ _ _.
 
