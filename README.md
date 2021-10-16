@@ -1,2 +1,2 @@
 # StatefulApp
-La aplicación se encuentra en la rama master
+La aplicación se encuentra en la branch master
