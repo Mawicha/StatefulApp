@@ -19,11 +19,11 @@ function Component1() {
   return (
     <Fragment>
         <label>
-            Nombre del usuario: <span></span>
+            Username: <span></span>
             <input
             onChange={e => setLocalStorage(e.target.value)}
             value={text}
-            placeholder="Ingrese su nombre">
+            placeholder="Please enter your name">
             </input>
         </label>
         <p>Hello {text}!</p>
